@@ -1,0 +1,91 @@
+{
+  "resultats": [
+    {
+      "id": "4875802",
+      "intitule": "Développeur RUST F/H - Informatique de gestion (H/F)",
+      "description": "Descriptif du poste:\n\nActeur européen de référence sur le marché de la cybersécurité et filiale du groupe Airbus, Stormshield se positionne comme le premier éditeur français pure-player en cybersécurité. Pour continuer notre croissance, on recherche de nouveaux talents et on recrute un Développeur système RUST.\n\n\n\nDéveloppeur système RUST : résumé de la fiche de poste\n* Poste : Développeur système RUST.\n* Équipe : Mesh.\n* Type : CDI.\n* Lieu : Villeneuve d'Ascq, Lille.\n* Télétravail : Jusqu'a 3 jours par semaine (Full Télétravail possible).\nDéveloppeur système RUST : expérience et compétences\n\n\n\n¿¿ Qui recherche-t-on ?\n\n\n\nOn aurait pu te dire que l'on recherche quelqu'un curieux, passionné, rigoureux, investi, motivé, fiable, flexible, organisé, proactif. Mais puisque les licornes et les moutons à 5 pattes n'existent pas, on recherche surtout un candidat avec une tête bien faite. Si tu te sens capable de t'intégrer à nos valeurs, que tu as le sens des responsabilités et une forte appétence pour la sécurité informatique, ça nous va.\nOn recherche des développeurs avec une excellente connaissance de Rust ou une solide expérience en C++ et désireux d'apprendre à coder en Rust.\nManager de l'équipe Mesh, David recherche un développeur système Rust pour participer au développement d'un agent multi-plateforme (Windows, Linux, MacOS, iOS, Android ...) assurant l'intégrité du poste, le contrôle et la sécurisation des communications.\n\n\n\n¿¿¿ Quelles missions ?\n* Développement de la solution.\n* Revues de code.\n* Développement et évolution des tests unitaires.\n* Définition des spécifications techniques.\n¿¿ Quel est l'environnement ?\n* Référentiels : Jira, Confluence.\n* Stack technique : Rust.\n* Intégration continue : Jenkins, Git.\n* Écosystème : Linux / Windows / macOS / iOS / Android.\n* Environnements virtualisés : VMware.\n\n\n\n\nProfil recherché:\n\nDéveloppeur système RUST : pourquoi choisir Stormshield ? \n\n Quel produit ? \n\nLe projet OVERSEC a reçu le soutien du plan d'investissement France 2030, destiné à faire émerger les futurs champions technologiques de demain et accompagner les transitions des secteurs d'excellence. Ce projet vise à concevoir une brique logicielle multiplateforme intégrable dans les différents actifs des infrastructures critiques, permettant de filtrer et chiffrer leurs communications. \nConçue de façon à être très résiliente aux cyberattaques et aux pannes logicielles, cette brique améliorera la sûreté de fonctionnement et les processus pour maintenir les sites en conditions opérationnelles et de sécurité. Le déploiement et la configuration des différentes instances du logiciel se feront de façon globale, avec une approche accessible pour les métiers non experts en cybersécurité. Enfin, cette solution permettra de retrouver un périmètre virtuel pour des actifs de terrain et sera donc essentielle pour les usages associés aux « edge computing ». \n\n Quelle équipe pour le Développeur système RUST? \n\nTu seras intégré à l'équipe OverSec qui est managée par David. Cette équipe est composée d'une quinzaine de personnes. \n¿ \n¿¿Quel process de recrutement ?  \n* Un premier échange avec William, en charge du recrutement, pour échanger sur ce que tu fais actuellement et comment travailler ensemble. \n* Un entretien téléphonique avec David. C'est un premier point pour t'expliquer plus en détails le fonctionnement de l'équipe et la vision du poste. \n* Un entretien technique avec David et une partie de son équipe, autour d'exercices de développement. \n* Un entretien RH avec Tiphaine, pour te présenter Stormshield dans sa globalité et l'ensemble des avantages.\n \n\nPour en savoir davantage sur la communauté Stormshield, cours faire un tour sur notre blog « Inside Stormshield » pour découvrir l'envers du décor, nos coulisses.",
+      "dateCreation": "2023-10-26T08:08:18.000Z",
+      "dateActualisation": "2023-10-26T08:08:18.000Z",
+      "lieuTravail": {
+        "libelle": "59 - LILLE",
+        "latitude": 50.630992,
+        "longitude": 3.045433,
+        "codePostal": "59000",
+        "commune": "59350"
+      },
+      "romeCode": "M1805",
+      "romeLibelle": "Études et développement informatique",
+      "appellationlibelle": "Développeur / Développeuse informatique",
+      "entreprise": {
+        "nom": "Stormshield",
+        "description": "Pourquoi choisir Stormshield ?\n\n\n\t\n* Vous voulez exercer un métier au cœur des actualités du moment, dans un marché porteur ;\n\t\n* Vous souhaitez intégrer un acteur européen, aux ambitions internationales ;\n\t\n* Vous êtes désireux d'apporter votre talent pour renforcer la confiance de nos clients et les cyber-séréniser ;\n\t\n* Vous êtes convaincu qu'un hacker n'est pas qu'un sombre personnage en capuche derrière son ordinateur ;\n\t\n* Vous souhaitez bénéficier de t...",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "Expérience exigée de 1 An(s)",
+      "salaire": {
+        "commentaire": "A négocier"
+      },
+      "alternance": false,
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "62.01Z",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Programmation informatique",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/4875802",
+        "partenaires": [
+          {
+            "nom": "APEC",
+            "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/172262731W?xtor=AL-406",
+            "logo": "https://www.pole-emploi.fr/static/img/partenaires/apec80.png"
+          }
+        ]
+      }
+    }
+  ],
+  "filtresPossibles": [
+    {
+      "filtre": "typeContrat",
+      "agregation": [
+        {
+          "valeurPossible": "CDI",
+          "nbResultats": 1
+        }
+      ]
+    },
+    {
+      "filtre": "experience",
+      "agregation": [
+        {
+          "valeurPossible": "2",
+          "nbResultats": 1
+        }
+      ]
+    },
+    {
+      "filtre": "qualification",
+      "agregation": [
+        {
+          "valeurPossible": "9",
+          "nbResultats": 1
+        }
+      ]
+    },
+    {
+      "filtre": "natureContrat",
+      "agregation": [
+        {
+          "valeurPossible": "E1",
+          "nbResultats": 1
+        }
+      ]
+    }
+  ]
+}
