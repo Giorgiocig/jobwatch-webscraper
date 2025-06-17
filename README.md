@@ -1,8 +1,8 @@
-# Job offer webscraper
+# Jobwatch webscraper
 
 # Description
 
-Job offer webscraper is a Python application to retrieve data of job offers from APEC and Hellowork websites and send them to S3 server.
+Jobwatch webscraper is a Python application to retrieve data of job offers from APEC and Hellowork websites and send them to S3 server.
 Selenium Python is used to perform scraping and collect data. 
 The scraper performs a research by writing keywords present in keyword.yaml file in the input field. Then, the search button is clicked and the research is launched. It navigates through paginated results storing the job offers's hrefs inside a list "page_links_hrefs". At that point, it loops over the hrefs in "page_links_hrefs" collecting data in objects. One object "job_offer_details_obj "corresponds to one job offers. Next, each object is appended in a list "list_of_offers" that represents the final output.
 object output example
